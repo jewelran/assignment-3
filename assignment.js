@@ -1,15 +1,15 @@
 // https://github.com/jewelran/assignment-3
 
 // convert kilomiter to meter............
-function kilomiterToMeter(meters) {
+function kilometerToMeter(meters) {
 
     var oneKilometer = 1000;
-    var kilomiterToMeter = oneKilometer * meters;
-    meter = kilomiterToMeter;
+    var kilometerToMeter = oneKilometer * meters;
+    meter = kilometerToMeter;
     return meter;
 
 }
-var result = kilomiterToMeter(42)
+var result = kilometerToMeter(42)
 console.log(result, 'meter')
 
 // for budge calculator................
